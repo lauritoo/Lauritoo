@@ -3,7 +3,7 @@
 **`Desenvolvedor Front-End`**
 
 Olá, meu nome é Fernando Laurito, tenho 24 anos e sou desenvolvedor com foco em front-end. Iniciei minha formação no curso técnico de Desenvolvimento de Sistemas pela ETEC de Guaianases e conclui o curso de Análise e Desenvolvimento de Sistemas na Faculdade SPTech. Atualmente moro em Poá, na Grande São Paulo.
-Tenho experiência na construção de interfaces web e estou expandindo meus conhecimentos para o back-end, estudando tecnologias com o objetivo de me tornar um desenvolvedor full stack.
+Tenho experiência na construção de interfaces web e estou expandindo meus conhecimentos para o back-end.
 
 ---
 
